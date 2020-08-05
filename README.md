@@ -1,6 +1,6 @@
-# OCR for math expressions
+# Qbang-text anal module part 2 : OCR for math expressions
 
-## 학습데이터 정리
+## 수식에 대한 OCR 
 
 1. 데이터 압축 해제 진행
 ```
