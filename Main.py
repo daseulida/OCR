@@ -19,7 +19,8 @@ import os
 
 INPUT_IMAGE = './input/input_1.jpg'
 SEGMENTED_OUTPUT_DIR = './segmented/'
-EMNIST_PATH = './data/emnist/'
+#EMNIST_PATH = './data/emnist/'
+EMNIST_PATH = './data/'
 MODEL_PATH = './model/alphanum_model_binary_ex_88.h5'
 mapping_processed = EMNIST_PATH + 'processed-mapping.csv'
 
