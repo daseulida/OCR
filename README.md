@@ -8,7 +8,10 @@ cd data
 unzip emnist.zip
 unzip crohme.zip
 ```
-And then run `Main.ipynb` notebook
+2. 파일 실행
+```
+python main.py
+```
 
 ## Copyright
 Copyright (c)
